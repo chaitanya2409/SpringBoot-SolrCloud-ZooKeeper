@@ -1,0 +1,85 @@
+#
+# Default excludes
+#
+
+# Binaries
+*.7z*
+*.dmg*
+*.gz*
+*.iso*
+*.rar*
+*.jar*
+*.tar*
+*.zip*
+*.war*
+*.ear*
+*.sar*
+*.class
+*.apk*
+*.ipa*
+*.dll*
+*.exe*
+*.tar.gz*
+*.svn*
+
+# Maven 
+target/
+bin/
+
+# IntelliJ project files 
+*.iml*
+*.iws*
+*.ipr*
+.idea/
+
+# eclipse project file
+.settings/
+.classpath
+.project
+
+# NetBeans specific
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+
+# OS
+.DS_Store*
+
+# Misc
+*.swp*
+release.properties
+pom.xml.releaseBackup
+pom.xml.tag
+
+#audio files
+*.wav*
+*.pcm*
+*.mp3*
+*.aac*
+*.wma*
+*.ogg*
+
+#video files
+*.avi*
+*.asf*
+*.wmv*
+*.mov*
+*.qt*
+*.flv*
+*.f4v*
+*.f4p*
+*.f4a*
+*.f4b*
+*.mpg*
+*.mp4*
+*.m4a*
+*.m4p*
+*.m4b*
+*.m4r*
+*.m4v*
+*.wm*
